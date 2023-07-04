@@ -1,0 +1,4 @@
+#Tue Jul 04 16:14:56 IST 2023
+base.0=/Users/maverick/Desktop/Android-Hands-On/black_jack_game/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

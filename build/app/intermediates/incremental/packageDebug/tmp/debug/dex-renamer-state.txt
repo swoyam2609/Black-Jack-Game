@@ -1,0 +1,4 @@
+#Tue Jul 04 10:02:16 IST 2023
+base.0=/Users/maverick/Desktop/Android-Hands-On/black_jack_game/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
